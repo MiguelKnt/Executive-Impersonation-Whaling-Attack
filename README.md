@@ -68,7 +68,6 @@ This engagement involved <strong>investigation, validation, and active incident 
 <h3>🌐 WHOIS Lookup</h3>
 <img src="images/whois_lookup.png" width="600">
 
-<h3>📨 Abuse Report</h3>
 <h3>📨 Abuse Report – Domain Provider</h3>
 <img src="images/abuse_report_1.png" width="600">
 
