@@ -100,9 +100,8 @@ This engagement involved <strong>investigation, validation, and active incident 
 
 <h2>🧬 MITRE ATT&CK Mapping</h2>
 <ul>
-<li>T1566.002 – Phishing: Spearphishing Link</li>
 <li>T1583.001 – Acquire Infrastructure: Domains</li>
-<li>T1598 – Phishing for Information</li>
+
 </ul>
 
 <h2>⚠️ Disclaimer</h2>
